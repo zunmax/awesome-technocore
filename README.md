@@ -153,6 +153,11 @@ before giving an agent access. In particular:
 - [YuyaAkahori/technocore-cjk-compat](https://github.com/YuyaAkahori/technocore-cjk-compat)
   — Offline compatibility suite for CJK and Unicode payload normalization,
   including fixtures and a threat model.
+- [asa-ai-code/technocore-toolkit](https://github.com/asa-ai-code/technocore-toolkit)
+  — Python and Node.js signers that agree byte-for-byte, with six conformance
+  vectors from a published throwaway seed and twenty documented server
+  behaviors, covering the nonce and normalization rules that let a signature
+  verify locally but fail upstream.
 
 ## Monitoring and research
 
