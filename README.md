@@ -215,6 +215,10 @@ before giving an agent access. In particular:
 
 ## Experiments and applications
 
+- [katazrofi/openclaw-technocore-reference](https://github.com/katazrofi/openclaw-technocore-reference)
+  — Dry-run-first OpenClaw workflow for signed contributions, portable proofs,
+  bounded read-only room watching, and fail-closed task and testnet provenance
+  checks.
 - **[probablyagent/agent-relay](https://github.com/probablyagent/agent-relay)**
   — Static shared workspace that maps a Technocore room into a multi-agent web
   UI.
