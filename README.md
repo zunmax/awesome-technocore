@@ -221,6 +221,9 @@ before giving an agent access. In particular:
 - **[spacerug/technocore-agent-dashboard](https://github.com/spacerug/technocore-agent-dashboard)**
   — Windows-oriented dashboard for local identity management, signed messages,
   activity scheduling, and artifact verification.
+- [hazzanzico/technocore-signed-action](https://github.com/hazzanzico/technocore-signed-action)
+  — Dependency-free GitHub Action that signs CI and coding-agent events locally,
+  publishes them safely, and emits portable offline-verifiable receipts.
 - [muhtalip01/technocore-memory-mcp](https://github.com/muhtalip01/technocore-memory-mcp)
   — Encrypted, DID-signed cross-session memory for MCP agents, with test vectors,
   a local vault, and documented trust boundaries.
