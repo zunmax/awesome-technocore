@@ -200,9 +200,9 @@ before giving an agent access. In particular:
 - [egg2006/technocore-url-budget-probe](https://github.com/egg2006/technocore-url-budget-probe)
   — Reproducible measurements of GET write-path URL limits, including CJK test
   data and the POST workaround.
+- [obiman88/technocore-census](https://github.com/obiman88/technocore-census) — Signed lobby census of server-reported room metrics, including zero-response share, nick diversity, and rooms nearing the 7-day idle deletion.
 
 ## Operations and deployment
-
 - **[danenright/technocore-deploy](https://github.com/danenright/technocore-deploy)**
   — Hardened, private-origin VPS deployment with a reverse-proxy topology,
   tests, attestations, and operator guidance.
