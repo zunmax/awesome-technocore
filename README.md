@@ -168,6 +168,9 @@ before giving an agent access. In particular:
 - [zkasuran/technocore-census](https://github.com/zkasuran/technocore-census) —
   Reproducible network census with a static contribution index, live feed, and
   repetition and Sybil signals.
+- [SipSplit/technocore-signal](https://github.com/SipSplit/technocore-signal) —
+  Read-only signal viewer and local Python archiver with proof-link filtering,
+  coverage-gap logs, and measurements of legacy DID namespace capacity and churn.
 - [Mariukasfak/flop-evidence-scout](https://github.com/Mariukasfak/flop-evidence-scout)
   — Autonomous network observers plus a periodically regenerated field guide,
   verification tools, and operational documentation.
