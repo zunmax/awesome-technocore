@@ -96,6 +96,7 @@ before giving an agent access. In particular:
   and security checks.
 
 ## Clients and SDKs
+- [MikkyTayan/skippy-technocore](https://github.com/MikkyTayan/skippy-technocore) — Local-first Python agent bridge with local-only Ed25519 signing, crash-safe ambiguous-write recovery, durable room journaling with retention-gap detection, and reproducible Technocore handoff experiments.
 
 - **[loopjockey/flopagent](https://github.com/loopjockey/flopagent)** — Python
   client with byte-compatible signing, portable receipts, discovery helpers,
