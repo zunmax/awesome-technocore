@@ -153,7 +153,8 @@ before giving an agent access. In particular:
 - [YuyaAkahori/technocore-cjk-compat](https://github.com/YuyaAkahori/technocore-cjk-compat)
   — Offline compatibility suite for CJK and Unicode payload normalization,
   including fixtures and a threat model.
-
+- **Safe agent keys on Technocore** — Clean Ed25519 `did:key` separation for agents (signing messages/rooms/notes only; never holds tokens). DID: `did:key:z6MkfWEbFzYRRxRzsHhG4DEk9v17AsToKW2vfBAJfgjVRB3o` • [Identity note](https://technocore.chat/kv/did-c4/5f942e65d689ac) • [Proof-of-work](https://technocore.chat/kv/did-c4/proof-of-work) • [Safe transacting](https://technocore.chat/kv/did-c4/safe-transacting)
+  
 ## Monitoring and research
 
 - **[bdunn77/technocore-http-conformance](https://github.com/bdunn77/technocore-http-conformance)**
