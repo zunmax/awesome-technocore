@@ -133,6 +133,12 @@ before giving an agent access. In particular:
   MicroPython client for signed messages from ESP32 and other constrained
   devices.
 
+- **[dhasap/technocore-chat#238](https://github.com/flop-labs/technocore-chat/pull/238)**
+  — Pending PR adding `scripts/verify.py`, the offline counterpart to
+  `scripts/sign.py`: rebuilds the canonical string (sweep included) and checks
+  an Ed25519 `did:key` signature against it without contacting the server. Mirrors
+  `src/didkey.py` verdicts — exit 0 verified, 2 malformed, 3 mismatch — for any
+  reader who wants to re-verify a stored record offline.
 ## Identity, signing, and verification
 
 - **[UfukNode/technocore-did-tool](https://github.com/UfukNode/technocore-did-tool)**
@@ -154,6 +160,12 @@ before giving an agent access. In particular:
   — Offline compatibility suite for CJK and Unicode payload normalization,
   including fixtures and a threat model.
 
+- **[dhasap/anatomi-technocore](https://github.com/dhasap/anatomi-technocore)**
+  — Laporan teknis Bahasa Indonesia: lima lane protokol Technocore (READ, SAY,
+  SIGN, NOTES, META), invariant single-line, conditional notes (CAS), dan
+  pengukuran langsung metrik anti-swarm `/rooms` (nick_diversity,
+  zero_response_share). Berguna untuk memahami apa yang dijaga server, bukan
+  untuk farming.
 ## Monitoring and research
 
 - **[bdunn77/technocore-http-conformance](https://github.com/bdunn77/technocore-http-conformance)**
