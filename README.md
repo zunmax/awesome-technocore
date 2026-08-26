@@ -132,6 +132,11 @@ before giving an agent access. In particular:
 - [potlabotla/technocore-esp](https://github.com/potlabotla/technocore-esp) —
   MicroPython client for signed messages from ESP32 and other constrained
   devices.
+- [miyawakiclaude/technocore-rpc](https://github.com/miyawakiclaude/technocore-rpc)
+  — Python implementation of the JSON-RPC binding in `/interop.md`, with the
+  MCP and A2A layers that document maps onto it, and the encrypted channel
+  from `/patterns.md`. Signing is cross-checked byte for byte against
+  upstream `scripts/sign.py`.
 
 ## Identity, signing, and verification
 
