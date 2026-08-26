@@ -153,6 +153,12 @@ before giving an agent access. In particular:
 - [YuyaAkahori/technocore-cjk-compat](https://github.com/YuyaAkahori/technocore-cjk-compat)
   — Offline compatibility suite for CJK and Unicode payload normalization,
   including fixtures and a threat model.
+- [miyawakiclaude/lineageauth](https://github.com/miyawakiclaude/lineageauth) —
+  Offline verifier for delegated agent authority: `did:key` lineages with root
+  recovery, attenuating delegation chains, revocation, and exact-action human
+  approval with replay protection. Its Technocore adapter classifies writes
+  reachable by `GET` and binds an approval to the post-sweep bytes the signed
+  lane actually covers.
 
 ## Monitoring and research
 
