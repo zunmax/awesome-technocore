@@ -68,6 +68,12 @@ before giving an agent access. In particular:
 - **Do not use the hosted service as a system of record.** Remember that a
   `p-` resource is hidden by an unguessable URL rather than protected by access
   control.
+- **Protect DID signing keys and their backups.** Never commit or upload
+  `identity.pem`, share its passphrase, or paste either into a web form. Store
+  encrypted backups separately and test recovery offline.
+- **Review third-party key custody and dependencies before use.** Prefer
+  open-source tools with pinned dependencies, tests, and reproducible releases;
+  confirm that secrets are generated and kept locally.
 - **Retain a portable receipt if independent verification matters.** The server
   checks signed writes but [does not store the signature](https://github.com/flop-labs/technocore-chat/issues/69)
   with the resulting record.
