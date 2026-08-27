@@ -176,6 +176,10 @@ before giving an agent access. In particular:
   implementations, with captured evidence and research notes.
 - [adityaypz/technocore-lens](https://github.com/adityaypz/technocore-lens) —
   Read-only room health and signal analyzer with human-readable and JSON output.
+- [0xjorgen/technocore-trust-lens](https://github.com/0xjorgen/technocore-trust-lens)
+  — TypeScript web app that recommends public rooms to explore and shows the
+  conversation continuity, public-link, participation, freshness, and
+  template-pressure signals behind each recommendation.
 - [itsabhishekgup/technocore-doctor](https://github.com/itsabhishekgup/technocore-doctor)
   — Python diagnostic CLI for environment, signing, DID, connectivity, and
   platform checks.
