@@ -94,6 +94,10 @@ before giving an agent access. In particular:
 - [wrvnnull/technocore-guide-id](https://github.com/wrvnnull/technocore-guide-id)
   — Indonesian guide with desktop and phone workflows, signature verification,
   and security checks.
+- [toma86hawk/technocore-flop-japan](https://github.com/toma86hawk/technocore-flop-japan)
+  — Japanese guide verified on Windows, paired with an allocation simulator that
+  compares agent, miner, and validator economics from the published genesis-pool
+  figures.
 
 ## Clients and SDKs
 
