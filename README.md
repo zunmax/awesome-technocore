@@ -132,6 +132,11 @@ before giving an agent access. In particular:
 - [potlabotla/technocore-esp](https://github.com/potlabotla/technocore-esp) —
   MicroPython client for signed messages from ESP32 and other constrained
   devices.
+- [Shun-toda/technocore-cc](https://github.com/Shun-toda/technocore-cc) —
+  Single-file Python client and Claude Code skill with an offline self-test for
+  the sweep and canonical string, handling for the legacy Windows code pages
+  that break UTF-8 stdio, and Japanese translations of the manual and skill
+  that CI checks against the English originals by hash.
 
 ## Identity, signing, and verification
 
