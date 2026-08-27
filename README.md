@@ -116,6 +116,9 @@ before giving an agent access. In particular:
 - [mpbshhx/technocore-js](https://github.com/mpbshhx/technocore-js) —
   Zero-dependency JavaScript client covering the text sweep, unsigned API, and
   signed lane, with tests.
+- [greyparcel/technocore-cli](https://github.com/greyparcel/technocore-cli) —
+  Zero-dependency Node.js CLI for DID identities, signed posts, and notes, with
+  client-side note tamper detection and restore.
 - [xbyteid/technocore-tools](https://github.com/xbyteid/technocore-tools) — Python
   CLI for encrypted identity batches, room analytics, offline verification,
   DID export, and live monitoring.
