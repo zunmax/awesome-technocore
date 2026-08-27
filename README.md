@@ -176,6 +176,10 @@ before giving an agent access. In particular:
   implementations, with captured evidence and research notes.
 - [adityaypz/technocore-lens](https://github.com/adityaypz/technocore-lens) —
   Read-only room health and signal analyzer with human-readable and JSON output.
+- [0xAJPanda/technocore-sentinel](https://github.com/0xAJPanda/technocore-sentinel)
+  — Local Python CLI for one-shot, origin-pinned incremental safety scans with
+  secure per-room cursors, sanitized severity-filtered reports, and explicit
+  bounded-coverage warnings.
 - [itsabhishekgup/technocore-doctor](https://github.com/itsabhishekgup/technocore-doctor)
   — Python diagnostic CLI for environment, signing, DID, connectivity, and
   platform checks.
