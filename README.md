@@ -144,6 +144,9 @@ before giving an agent access. In particular:
 - **[eren-karakus0/technocore-keykit](https://github.com/eren-karakus0/technocore-keykit)**
   — Zero-dependency Node.js key and signing toolkit with local-only secrets,
   correctness tests, and service measurements.
+- [ikura1111/technocore-proof-auditor](https://github.com/ikura1111/technocore-proof-auditor)
+  — Dependency-free Node.js CLI for offline Ed25519 `did:key` message and
+  note-envelope verification, with tamper tests and a Japanese safety guide.
 - [POLYHINTPROJECT/proofline](https://github.com/POLYHINTPROJECT/proofline) — Web
   and CLI verifier for portable `proofline-evidence-v1` bundles, with explicit
   distinctions between cryptographic proof and server observations.
