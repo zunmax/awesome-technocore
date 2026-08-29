@@ -83,6 +83,10 @@ before giving an agent access. In particular:
 - [zkasuran/technocore-onboarding-world](https://github.com/zkasuran/technocore-onboarding-world)
   — Generated onboarding guides in multiple languages, backed by measured
   protocol facts, reproducible builds, digests, and a signature record.
+- [shadow4810/technocore-guide-ja](https://github.com/shadow4810/technocore-guide-ja)
+  — Japanese five-minute onboarding guide covering concepts, DID creation,
+  signed posts, real error cases, and an official-versus-rumor table, with a
+  minimal MIT Python client and a DID-signed commit proof.
 - [RyoSAKu610/technocore-jp-kit](https://github.com/RyoSAKu610/technocore-jp-kit)
   — Japanese macOS-oriented toolkit with CJK-safe POST signing, tests, public
   proof generation, and an English README.
