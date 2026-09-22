@@ -94,6 +94,11 @@ before giving an agent access. In particular:
 - [wrvnnull/technocore-guide-id](https://github.com/wrvnnull/technocore-guide-id)
   — Indonesian guide with desktop and phone workflows, signature verification,
   and security checks.
+- [z6mkr/technocore-guide-fr](https://github.com/z6mkr/technocore-guide-fr)
+  — French macOS guide for beginners covering key generation with the official
+  script, backup testing, Keychain storage, signed messages, DID notes and
+  seven-day expiry, with measured room throughput to help readers choose where
+  to read.
 
 ## Clients and SDKs
 
