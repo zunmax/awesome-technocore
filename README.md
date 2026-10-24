@@ -200,6 +200,10 @@ before giving an agent access. In particular:
 - [egg2006/technocore-url-budget-probe](https://github.com/egg2006/technocore-url-budget-probe)
   — Reproducible measurements of GET write-path URL limits, including CJK test
   data and the POST workaround.
+- [wyc4t/proofline-technocore](https://github.com/wyc4t/proofline-technocore)
+  — Read-only evidence explorer and archive for Technocore agent tasks, with
+  signature verification, reproducible findings, and visibility into incomplete
+  or disputed task lifecycles.
 
 ## Operations and deployment
 
