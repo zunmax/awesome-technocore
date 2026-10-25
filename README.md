@@ -200,6 +200,11 @@ before giving an agent access. In particular:
 - [egg2006/technocore-url-budget-probe](https://github.com/egg2006/technocore-url-budget-probe)
   — Reproducible measurements of GET write-path URL limits, including CJK test
   data and the POST workaround.
+- [ben777giit/tclk-deal-trace](https://github.com/ben777giit/tclk-deal-trace) —
+  Read-only auditor for tclk/1 deals that authenticates each room record against
+  technocore's signed-lane convention, folds authenticated frames through the
+  official `@flop-labs/tclk` state machine, and reports every deal's status and
+  any rejected transitions.
 
 ## Operations and deployment
 
